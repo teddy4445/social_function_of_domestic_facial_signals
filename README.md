@@ -31,7 +31,7 @@ pip install -r requirements.txt
 If you use this code or find it helpful in your research, please cite our work as follows:
 ```
 @article{martvel2024catfacs,
-  title={CatFACS-Based Rapid Facial Mimicry Analysis},
+  title={Computational Investigation of the Social Function of Domestic Cat Facial Signals},
   author={Marvel, G. and Scott, L. and Florkiewicz, B. and Zamansky, A. and Shimshoni, I. and Lazebnik, T.},
   year={2024},
   jornal = {TBD}
